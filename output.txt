@@ -1,0 +1,32 @@
+tests-MacBook-Pro:homework10 gushuqin$ cd plugin
+tests-MacBook-Pro:plugin gushuqin$ javac myplugin.java PluginOne.java PluginTwo.java
+tests-MacBook-Pro:plugin gushuqin$ cd ..
+tests-MacBook-Pro:homework10 gushuqin$ javac main.java
+tests-MacBook-Pro:homework10 gushuqin$ java main
+Choose Plugin Name
+.DS_Store
+myplugin.class
+myplugin.java
+PluginOne.class
+PluginOne.java
+PluginTwo.class
+PluginTwo.java
+Do you want to run PluginOne or PluginTwo, Enter your choice 
+PluginOne
+you chosed PluginOne
+Plagin one says Hello
+Plagin one says Bye
+tests-MacBook-Pro:homework10 gushuqin$ java main
+Choose Plugin Name
+.DS_Store
+myplugin.class
+myplugin.java
+PluginOne.class
+PluginOne.java
+PluginTwo.class
+PluginTwo.java
+Do you want to run PluginOne or PluginTwo, Enter your choice 
+PluginTwo
+you chosed PluginTwo
+Plagin two says Hello
+Plagin two says Bye
